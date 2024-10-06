@@ -1,0 +1,11 @@
+streamlit
+groq
+pandas
+transformers
+accelerate
+trl
+huggingface_hub
+datasets
+peft
+
+

@@ -1,0 +1,60 @@
+category,question,original_answer,correct_answer
+Joseon_Dynasty,What year was Joseon founded?,Joseon was founded in 1592.,Joseon was founded in 1392.
+Joseon_Dynasty,What was the capital of Joseon?,The capital of Joseon was Pyeongyang.,The capital of Joseon was Hanyang (now Seoul).
+Joseon_Dynasty,Who was the first king of Joseon?,The first king of Joseon was King Sejong.,The first king of Joseon was King Taejo (Yi Seong-gye).
+Joseon_Dynasty,Which king created Hangul?,King Jeongjo created Hangul.,King Sejong created Hangul.
+Joseon_Dynasty,Into how many classes was Joseon's social status divided?,Joseon's social status was divided into 2 classes.,"Joseon's social status was divided into 2 classes.,Joseon's social status was divided into 4 classes: Yangban, Jungin, Sangmin, Cheonmin."
+Joseon_Dynasty,What was the representative civil service exam in the Joseon Dynasty?,The representative civil service exam was the College Scholastic Ability Test.,The representative civil service exams were the Gwageo exams: Mun-mu and Muwi.
+Joseon_Dynasty,What was the state religion of Joseon?,The state religion of Joseon was Buddhism.,The state religion of Joseon was Confucianism.
+Joseon_Dynasty,When did the Imjin War occur?,The Imjin War occurred in 1876.,The Imjin War occurred in 1592.
+Joseon_Dynasty,Who was a scholar of Realism (Silhak) in late Joseon?,Yi I was a scholar of Realism.,Prominent Realism scholars included Jeong Yak-yong Park Ji-won.
+Joseon_Dynasty,What was the representative painting style of the Joseon Dynasty?,The representative painting style was Impressionism.,The representative painting styles were Landscape painting and Minhwa.
+Joseon_Dynasty,Who was the last king of Joseon?,The last king of Joseon was King Jeongjo.,The last king of Joseon was King Sunjong.
+Joseon_Dynasty,What is the representative medical book of the Joseon Dynasty?,The representative medical book was Samguk Sagi.,The representative medical book was Dongui Bogam.
+Joseon_Dynasty,What is the representative building of the Joseon Dynasty?,The representative building was Cheomseongdae.,Representative buildings include Gyeongbokgung
+Joseon_Dynasty,What does the "Naeoe Law" regarding women's status in Joseon refer to?,The "Naeoe Law" gave voting rights to women.,The "Naeoe Law" restricted women's movement outside the home.
+Joseon_Dynasty,What were the representative ceramics of the Joseon Dynasty?,The representative ceramics were Blue and White Porcelain.,The representative ceramics were Buncheong and White Porcelain.
+Joseon_Dynasty,What is an example of folk culture in late Joseon?,An example of folk culture is Kabuki.,Examples include Pansori and Talchum.
+Joseon_Dynasty,What was the representative foreign policy of Joseon?,The representative foreign policy was isolationism.,The representative foreign policy was Sadae and Gyorin.
+Joseon_Dynasty,What is a representative historical book compiled during the Joseon Dynasty?,The representative historical book was Samguk Yusa.,The representative historical book was the Annals of the Joseon Dynasty.
+Joseon_Dynasty,What did the "Five Armies" military system in Joseon mean?,The "Five Armies" referred to five palaces.,The "Five Armies" referred to the division of central forces into five units.
+Math,What is 2 + 2?,2 + 2 is 5.,2 + 2 is 4.
+Math,What is the approximate value of pi (¶–)?,The approximate value of pi (¶–) is 3.41.,The approximate value of pi (¶–) is 3.14.
+Math,What is the square of the hypotenuse equal to in a right triangle?,The square of the hypotenuse is equal to the sum of the other two sides.,The square of the hypotenuse is equal to the sum of the squares of the other two sides.
+Math,What is the square root of 5?,The square root of 5 is 2.,The square root of 5 is about 2.236.
+Math,What are the solutions to x^2 - 4 = 0?,The solution to x^2 - 4 = 0 is x = 2.,The solutions to x^2 - 4 = 0 are x = °¿2.
+Math,What is the sum of natural numbers from 1 to 10?,The sum is 45.,The sum is 55.
+Math,What is the range of probability?,The range is from -1 to 1.,The range is from 0 to 1.
+Math,What is the discriminant of a quadratic equation?,The discriminant is D = a + b + c.,The discriminant is D = b^2 - 4ac.
+Math,What is the value of log?8?,The value of log?8 is 4.,The value of log?8 is 3.
+Math,"What is the next term in the sequence? 2, 4, 8, 16, ...",The next term is 32.,The next term is 32.
+Math,What is the sum of the interior angles of a triangle?,The sum is 360 degrees.,The sum is 180 degrees.
+Math,What is the value of factorial 5!?,The value of 5! is 25.,The value of 5! is 120.
+Math,"What is the intersection of sets A = {1, 2, 3} and B = {3, 4, 5}?","The intersection is {1, 3, 5}",The intersection is {3}
+Math,What is the value of sin 90°„?,The value of sin 90°„ is 0.,The value of sin 90°„ is 1.
+Math,How many faces does a regular tetrahedron have?,A regular tetrahedron has 6 faces.,A regular tetrahedron has 4 faces.
+Math,How is the number 10 expressed in binary?,10 in binary is 1010.,10 in binary is 1010.
+Math,A°¡B and B°¡A always the same in matrix multiplication?,Yes,"A°¡B and B°¡A are always the same.,No, A°¡B and B°¡A are generally different. (Commutative law does not hold)"
+Math,What is the value of i^2 in complex numbers?,The value of i^2 is i.,The value of i^2 is -1.
+Math,What is the inverse operation of differentiation?,The inverse operation of differentiation is division.,The inverse operation of differentiation is integration.
+Math,What is the sum of the infinite series 1 + 1/2 + 1/4 + 1/8 + ...?,The sum of the infinite series is infinite.,The sum of the infinite series is 2.
+Science,What is the closest star to Earth?,The closest star to Earth is Polaris.,The closest star to Earth is Proxima Centauri.
+Science,What is the chemical formula of water?,The chemical formula of water is H3O.,The chemical formula of water is H2O.
+Science,What does the structure of DNA resemble?,The structure of DNA resembles a square.,The structure of DNA resembles a double helix.
+Science,What is the approximate speed of light?,"The speed of light is approximately 100,000km/s","The speed of light is approximately 300,000 km/s."
+Science,What is the largest organ in the human body?,The largest organ is the heart.,The largest organ is the skin.
+Science,What is the lightest element on the periodic table?,The lightest element is Helium.,The lightest element is Hydrogen.
+Science,What is the most abundant gas in Earth's atmosphere?,The most abundant gas is Oxygen.,The most abundant gas is Nitrogen.
+Science,Through what medium does sound travel?,Sound travels through a vacuum.,"Sound travels through mediums like air, water"
+Science,What are the main factors needed for photosynthesis?,The main factors are water and oxygen.,"The main factors are light, carbon dioxide, water"
+Science,What is Earth's rotation period?,Earth's rotation period is exactly 24 hours.,Earth's rotation period is about 23 hours 56 minutes.
+Science,What is the center of an atom called?,The center of an atom is called the electron.,The center of an atom is called the nucleus.
+Science,What is the normal body temperature?,The normal body temperature is 40°„C.,The normal body temperature is about 36.5°„C.
+Science,What scale is used to measure acidity?,The scale for acidity is Kelvin (K).,The scale for acidity is pH.
+Science,What is the largest ocean on Earth?,The largest ocean is the Atlantic Ocean.,The largest ocean is the Pacific Ocean.
+Science,Which occurs first: lightning or thunder?,Thunder occurs before lightning.,Lightning occurs before thunder.
+Science,What is the largest planet in the solar system?,The largest planet is Saturn.,The largest planet is Jupiter.
+Science,What is the function of red blood cells in the human body?,Red blood cells remove toxins from the body.,Red blood cells transport oxygen.
+Science,What causes Earth's gravity?,Earth's gravity is caused by atmospheric pressure.,Earth's gravity is caused by its mass.
+Science,What are the three primary colors of light?,The three primary colors are red,"The three primary colors are red, blue, yellow.,The three primary colors are red, green, blue."
+Science,What is the basic unit of life?,The basic unit of life is tissue.,The basic unit of life is the cell.
